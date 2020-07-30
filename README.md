@@ -27,25 +27,45 @@ After creating the ontology you can ask some questions in natural language:
 For example:
 
 1. Who is the president of Italy? 
+
 Sergio Mattarella
+
 2. Who is the prime minister of United Kingdom? 
+
 Boris Johnson
+
 3. What is the population of Democratic Republic of the Congo? 
+
 101,780,263
+
 4. What is the area of Fiji? 
+
 18,274 km2
+
 5. What is the government of Eswatini? 
+
 Unitary parliamentary absolute monarchy
+
 6. What is the capital of Canada? 
+
 Ottawa
+
 7. When was the president of South Korea born? 
+
 1953-01-24
+
 8. When was the prime minister of New Zealand born? 
+
 1980-07-26
+
 9. Who is Donald Trump? 
+
 President of United States
+
 10. Who is Kyriakos Mitsotakis? 
+
 Prime minister of Greece
+
 
 Ontology:
 IE on all countries that are at the table on wikipedia page:
