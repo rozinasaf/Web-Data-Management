@@ -9,14 +9,23 @@ The program create an ontology of countries over wikipedia using Xpath.
 After creating the ontology you can ask some questions in natural language:
 
 (i) Who is the president of <country>?
+
 (ii) Who is the prime minister of <country>?
+  
 (iii) What is the population of <country>?
+  
 (iv) What is the area of <country>?
+  
 (v) What is the government of <country>?
+  
 (vi) What is the capital of <country>?
+  
 (vii) When was the president of <country> born?
+  
 (viii) When was the prime minister of <country> born?
+  
 (ix) Who is <entity>?
+  
 
 For example:
 
