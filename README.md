@@ -1,6 +1,5 @@
-countries_ie.py:
 
-The program create an ontology of countries over Wikipedia using Xpath.
+The program creates an ontology of countries over Wikipedia using Xpath.
 
 After creating the ontology you can ask some questions in natural language:
 
