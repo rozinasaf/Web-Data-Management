@@ -1,6 +1,4 @@
-# Web-Data-Management
-
-IE and web crawler
+# Countries-Inforamation-Extraction
 
 countries_ie.py:
 
@@ -26,7 +24,6 @@ After creating the ontology you can ask some questions in natural language:
   
 (ix) Who is <entity>?
   
-
 For example:
 
 1. Who is the president of Italy? Sergio Mattarella
@@ -50,9 +47,9 @@ Parsing the question and using SPARQL queries to answer.
 RUNNING THE PROGRAM:
 
 run this command to create an ontology:
-python countries_ie.py create
+python <countries_ie.py path> create
 
 run this command to ask a question:
-python countries.py question “<natural language question string>”
+python <countries_ie.py path> question “<natural language question string>”
 
 ONTOLOGY CREATION CAN TAKE A WHILE - you can use the file ontology.nt, just put it in WD and ask a question.
